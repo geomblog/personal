@@ -51,3 +51,7 @@ STATE,name,population,code
 55,Wisconsin,5822434,WI
 56,Wyoming,578759,WY
 72,Puerto Rico,3193694,PR
+99,Guam,16772,GU
+99,Marianas Islands,51994,MP
+99,American Samoa,55689,AS
+99,Virgin Islands,107268,VI
